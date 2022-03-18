@@ -1,0 +1,7 @@
+"D:\Program Files (x86)\CLion 2021.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Program Files (x86)/CLion 2021.3/bin/ninja/win/ninja.exe" -G Ninja D:\cliontest\SockDemo
+-- Configuring done
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: main.cpp
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
